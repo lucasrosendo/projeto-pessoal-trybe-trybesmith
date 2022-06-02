@@ -1,9 +1,9 @@
 import { Router } from 'express';
 import UsersController from '../controllers/users.controller';
-import validateUserName from '../middlewares/user.username.validation';
-import validateClasse from '../middlewares/user.classe.validation';
-import validateLevel from '../middlewares/user.level.validation';
-import validatePassword from '../middlewares/user.password.validation';
+import { validateUserName,
+  validateClasse,
+  validateLevel,
+  validatePassword } from '../middlewares/user.validation';
 
 const router = Router();
 
