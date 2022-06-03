@@ -14,7 +14,7 @@ export default class OrdersController {
   public create = async (req: Request, res: Response) => {
     const { productsIds } = req.body;
     const token = req.headers.authorization;
-    const decoded: any = verify(token!, 'secret');
+    const decoded:any = verify(token!, 'secret');
 
     const allUsers = await this.userService.getAll();
     const user = allUsers.find((usr) => usr.username === decoded.data.username);
