@@ -1,0 +1,83 @@
+[33mcommit 86517975a087bb14acffd18fe9e46687a1077761[m[33m ([m[1;36mHEAD -> [m[1;32mlucas-rosendo-project-trybesmith[m[33m)[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Thu Jun 2 22:08:06 2022 -0300
+
+    06
+
+[33mcommit 132f44497e86ed27903fbfd540bb49cbf800f039[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Thu Jun 2 16:12:19 2022 -0300
+
+    refatoração middle
+
+[33mcommit 6787d3a1d3a17a5e03b16e3369f80d5c0aee6799[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Thu Jun 2 14:17:59 2022 -0300
+
+     só falta o 6
+
+[33mcommit ee9303af1de82469af1230ae92b5709eb1e7b919[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Thu Jun 2 13:42:10 2022 -0300
+
+    validations
+
+[33mcommit 175f85f7c6c80cff31b0a3425a06e074f31f3d89[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Thu Jun 2 13:25:08 2022 -0300
+
+     create product
+
+[33mcommit 0f6f8fb2fc462bbf1682279e6b347c1adf6d8882[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Wed Jun 1 19:25:47 2022 -0300
+
+    correcao connection
+
+[33mcommit ab50419112a6ace52357196c5eb2a2ad0435d333[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Wed Jun 1 19:18:19 2022 -0300
+
+    getAll products
+
+[33mcommit bd39bf2a821f01e7711b1b5d30b9bfd163f541f4[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Wed Jun 1 17:48:59 2022 -0300
+
+    connection
+
+[33mcommit fee509488376918b707fef74a6cf50d46ba2a795[m
+Author: lucasrosendo <lucasrosendo91@gmail.com>
+Date:   Wed Jun 1 17:39:46 2022 -0300
+
+    tsconfig
+
+[33mcommit 6c60650343fdf5fa78083db364b6f6a4c1db184c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Carlos[m[33m, [m[1;32mmain[m[33m)[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Mon May 16 11:33:22 2022 -0300
+
+    README.md updated
+
+[33mcommit a19914a50ead14be271732292a79bb1b362c7b3a[m
+Author: Renato Álvares <46536452+nato-re@users.noreply.github.com>
+Date:   Sun May 15 11:37:33 2022 -0300
+
+    Update README.md
+
+[33mcommit 6ed8fdb58ccc7687c3f5d210ad7ed3296e93b75b[m[33m ([m[1;31morigin/vitor-diamantino-sd-016-a-project-trybesmith[m[33m)[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Fri May 13 12:34:37 2022 -0300
+
+    .github/workflows/main.yml updated
+
+[33mcommit 13b160d0b1d60669b3947c24d2ae8c15769217d5[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Fri May 13 12:34:36 2022 -0300
+
+    README.md updated
+
+[33mcommit 34c76ffb7e184656e23d4130f316d38f9f4069f5[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Fri May 13 12:34:35 2022 -0300
+
+    Initial commit
