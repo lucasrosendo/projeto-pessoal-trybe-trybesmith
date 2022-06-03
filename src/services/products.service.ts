@@ -18,4 +18,8 @@ export default class ProductService {
     const products = await this.model.create(product);
     return products;
   }
+
+  public async update(productId: number, orderId: number) {
+    await this.model.update(productId, orderId);
+  }
 }
